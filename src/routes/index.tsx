@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { Navigate, Route, Routes } from "react-router-dom";
 import { route, routes } from "./routing";
 import { Home } from "../pages/Home";
 import { Legion } from "../pages/leagues/Legion";
@@ -14,6 +14,7 @@ import { Sanctum } from "../pages/leagues/Sanctum";
 import { Crucible } from "../pages/leagues/Crucible";
 import { Trials } from "../pages/leagues/Trials";
 import { Harvest } from "../pages/leagues/Harvest";
+import { Error } from "../pages/leagues/Error";
 
 export function Router() {
   return (
@@ -32,6 +33,8 @@ export function Router() {
       <Route path={route(routes.sanctum)} element={<Sanctum />} />
       <Route path={route(routes.crucible)} element={<Crucible />} />
       <Route path={route(routes.trials)} element={<Trials />} />
+      <Route path="/error404" element={<Error />} />
+      <Route path="*" element={<Navigate to={"/error404"} replace />} />
     </Routes>
   );
 }
