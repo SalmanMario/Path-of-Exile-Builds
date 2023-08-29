@@ -1,0 +1,30 @@
+.leagues-img {
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover;
+}
+
+.currencyPng {
+  width: 25px;
+  height: 25px;
+}
+
+.leagueBg {
+  width: 1150px;
+  height: 650px;
+  margin-bottom: 2rem;
+}
+
+.buttonColorNavbar,
+.buttonColorNavbar:hover {
+  background-color: #222729 !important;
+}
+
+.poeLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px; /* Set a specific width */
+  height: 400px; /* Set a specific height */
+  margin: 0 auto; /* Center horizontally within its parent container */
+}
