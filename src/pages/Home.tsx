@@ -15,7 +15,12 @@ export function Home() {
   });
 
   if (isLoading || !leagues) {
-    return <CircularProgress />;
+    return (
+      <Box>
+        <Typography variant="h2">Please, wait 1 minute for the API to start!</Typography>
+        <CircularProgress></CircularProgress>
+      </Box>
+    );
   }
 
   console.log(leagues);
