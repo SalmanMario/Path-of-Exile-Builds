@@ -17,8 +17,8 @@ export function Home() {
   if (isLoading || !leagues) {
     return (
       <Box>
-        <Typography variant="h2">Please, wait 1 minute for the API to start!</Typography>
-        <CircularProgress></CircularProgress>
+        <Typography variant="h2">Please, wait 2-3 minutes for the API to start!</Typography>
+        <CircularProgress />
       </Box>
     );
   }
@@ -55,6 +55,7 @@ export function Home() {
                   <NavLink
                     style={{ textDecoration: "none", color: "inherit" }}
                     to={`/league/${encodeURIComponent(data.name)}`}
+                    onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
                   >
                     <Grid container>
                       <Grid item md={6}>
