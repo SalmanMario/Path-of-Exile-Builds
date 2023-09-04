@@ -6,6 +6,7 @@ import moment from "moment";
 import { NavLink } from "react-router-dom";
 import { useState } from "react";
 import "../App.css";
+import { TypographyWithDelay } from "../components/TypographyDelay";
 
 export function Home() {
   const [expandedCard, setExpandedCard] = useState<number | null>(null);
@@ -16,9 +17,11 @@ export function Home() {
 
   if (isLoading || !leagues) {
     return (
-      <Box>
-        <Typography variant="h2">Please, wait 2-3 minutes for the API to start!</Typography>
-        <CircularProgress />
+      <Box sx={{ backgroundColor: "#181a20" }}>
+        <TypographyWithDelay variant="h2" delayMs={5000} color={"white"}>
+          Please wait 2-3 minutes for the API to start.
+        </TypographyWithDelay>
+        <CircularProgress size={50} sx={{ color: "white" }} />
       </Box>
     );
   }

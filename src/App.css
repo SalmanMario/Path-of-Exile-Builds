@@ -1,3 +1,8 @@
+body,
+html {
+  background-color: #181a20;
+}
+
 .leagues-img {
   width: 200px !important;
   height: 200px !important;
