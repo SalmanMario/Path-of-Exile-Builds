@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from "axios";
 
 /**
- * Base url for spotify web page
+ * Base url for the web page
  */
 const axiosInstance = axios.create({
   baseURL: "https://poe-backend.onrender.com",
