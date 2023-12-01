@@ -15,6 +15,7 @@ export interface Build {
   investment: string;
   items: Items[];
   youtubeLink: string;
+  youtubeGameplay: string;
   leagueInfo: {
     leagueImg: string;
     description: string;

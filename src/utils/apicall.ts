@@ -92,3 +92,10 @@ export function getSanctum() {
 export function getCrucible() {
   return wrapAxiosCall<Build[]>(axiosInstance.get("/builds/Crucible"));
 }
+
+/**
+ * Get all Ancestor builds
+ */
+export function getAncestor() {
+  return wrapAxiosCall<Build[]>(axiosInstance.get("/builds/Ancestor"));
+}

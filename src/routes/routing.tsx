@@ -18,6 +18,7 @@ export const routes = {
   sanctum: () => "/league/sanctum",
   crucible: () => "/league/crucible",
   trials: () => "/league/trials",
+  ancestor: () => "/league/ancestor",
 };
 
 export function route(fn: () => string): string;

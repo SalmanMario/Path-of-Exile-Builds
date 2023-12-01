@@ -25,6 +25,7 @@ const pages = [
   "Kalandra",
   "Sanctum",
   "Crucible",
+  "Ancestor",
 ];
 
 export function Navbar() {
@@ -64,8 +65,7 @@ export function Navbar() {
               letterSpacing: ".3rem",
               color: "inherit",
               textDecoration: "none",
-            }}
-          >
+            }}>
             Path of Exile
           </Typography>
 
@@ -76,8 +76,7 @@ export function Navbar() {
               aria-controls="menu-appbar"
               aria-haspopup="true"
               onClick={handleOpenNavMenu}
-              color="inherit"
-            >
+              color="inherit">
               <MenuIcon />
             </IconButton>
             <Menu
@@ -96,8 +95,7 @@ export function Navbar() {
               onClose={handleCloseNavMenu}
               sx={{
                 display: { xs: "block", md: "none" },
-              }}
-            >
+              }}>
               {pages.map((page) => (
                 <MenuItem key={page} onClick={handleCloseNavMenu}>
                   <NavLink style={{ textDecoration: "none", color: "inherit" }} to={`/league/${page}`}>
@@ -122,8 +120,7 @@ export function Navbar() {
               letterSpacing: ".3rem",
               color: "inherit",
               textDecoration: "none",
-            }}
-          >
+            }}>
             PoE
           </Typography>
           <Box sx={{ flexGrow: 1, display: { xs: "none", md: "flex" } }}></Box>
@@ -147,8 +144,7 @@ export function Navbar() {
                 horizontal: "right",
               }}
               open={Boolean(anchorElUser)}
-              onClose={handleCloseUserMenu}
-            >
+              onClose={handleCloseUserMenu}>
               {pages.map((page) => (
                 <MenuItem key={page} onClick={handleCloseNavMenu}>
                   <NavLink style={{ textDecoration: "none", color: "inherit" }} to={`/league/${page}`}>

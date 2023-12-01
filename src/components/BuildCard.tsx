@@ -11,8 +11,7 @@ export function BuildCard({ data, color }: BuildCardProps) {
           minHeight: 950,
           mb: 4,
           bgcolor: color || "#3c2044",
-        }}
-      >
+        }}>
         <CardMedia component="img" height="100%" image={data.cardImage} alt={data.ascendancy} />
         <CardContent>
           <Typography color="white" variant="h5">
@@ -50,7 +49,10 @@ export function BuildCard({ data, color }: BuildCardProps) {
               data.items &&
               data.items.map((item, itemId) => (
                 <Box key={itemId + 1} sx={{ display: "inline-block", mx: 0.2 }}>
-                  <NavLink style={{ textDecoration: "none", color: "#EB5418" }} target="_blank" to={item.linkUnique}>
+                  <NavLink
+                    style={{ textDecoration: "none", color: "#EB5418" }}
+                    target="_blank"
+                    to={item.linkUnique}>
                     {item.nameUnique},
                   </NavLink>
                 </Box>
@@ -65,8 +67,11 @@ export function BuildCard({ data, color }: BuildCardProps) {
           <Typography sx={{ my: 1 }} color="white" variant="body1">
             {data.content}
           </Typography>
-          <NavLink to={data.youtubeLink} style={{ color: "#EB5418", textDecoration: "none" }}>
-            Youtube Gameplay
+          <NavLink
+            style={{ textDecoration: "none", color: "#EB5418" }}
+            target="_blank"
+            to={data.youtubeGameplay}>
+            Youtube Gameplay {data.youtubeLink}
           </NavLink>
         </CardContent>
       </Card>
