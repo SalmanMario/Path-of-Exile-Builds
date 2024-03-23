@@ -1,0 +1,1512 @@
+[
+  {
+    "_id": "64d5ef5e893a45a374d57e1d",
+    "leagueId": "64ce43c360fd2a98015affcc",
+    "cardImage": "https://www.poewiki.net/images/thumb/7/78/Ascendancy_skill_tree_Assassin.png/1024px-Ascendancy_skill_tree_Assassin.png",
+    "ascendancy": "Ascendancy: Assassin",
+    "buildName": "CoC Ice Nova Cyclone",
+    "patchName": "Patch: 3.7 Legion",
+    "bossDamage": "Boss Damage: 4/10",
+    "clearSpeed": "Clear Speed: 6/10",
+    "survability": "Survability: 3/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Spin to win, Explosions, Stun immunity",
+    "cons": "Cons: Squishy, Expensive, Elemental reflect maps",
+    "investment": "Investment: 5 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Nothing",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=V2CBJ6gugIQ",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Cospri%27s_Malice",
+        "nameUnique": "Cospri's Malice"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Pandemonius",
+        "nameUnique": "The Pandemonius"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carcass_Jack",
+        "nameUnique": "Carcass Jack"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Lycosidae",
+        "nameUnique": "Lycosidae"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d5f3ec893a45a374d57e34",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/4/42/Ascendancy_skill_tree_Necromancer.PNG/1024px-Ascendancy_skill_tree_Necromancer.PNG",
+    "ascendancy": "Ascendancy: Necromancer",
+    "buildName": "Strength Stacking",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: 9/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 8/10",
+    "leagueMechanic": "League Mechanic: 9/10",
+    "pro": "Pro: Begginer friendly, AFK playstyle, Tanky",
+    "cons": "Cons: Physical reflect maps",
+    "investment": "Investment: 40 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=wI5lOHhaqPk",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Geofri%27s_Sanctuary",
+        "nameUnique": "Geofri's Sanctuary"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Baron",
+        "nameUnique": "The Baron"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Shaper%27s_Touch",
+        "nameUnique": "Shaper's Touch"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Astramentis",
+        "nameUnique": "Astramentis"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Kingmaker",
+        "nameUnique": "Kingmaker"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Victario%27s_Flight",
+        "nameUnique": "Victario's Flight"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Southbound",
+        "nameUnique": "Southbound"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Leer_Cast",
+        "nameUnique": "Leer Cast"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d5fb5248a01fc975134aba",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/7/78/Ascendancy_skill_tree_Assassin.png/1024px-Ascendancy_skill_tree_Assassin.png",
+    "ascendancy": "Ascendancy: Assassin",
+    "buildName": "Cobra Lash Claw Poison",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: 7/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 6/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Fast playstyle, Begginer friendly",
+    "cons": "Cons: Poison style, Lacking single target, DOT build",
+    "investment": "Investment: 4 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=n8llHL6286c",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Bino's_Kitchen_Knife",
+        "nameUnique": "Bino's Kitchen Knife"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Atziri's_Step",
+        "nameUnique": "Atziri's Step"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Dendrobate",
+        "nameUnique": "Dendrobate"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Coralito's_Signature",
+        "nameUnique": "Coralito's Signature"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d5fc7f48a01fc975134abe",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/3/3a/Ascendancy_skill_tree_Deadeye.png/1024px-Ascendancy_skill_tree_Deadeye.png",
+    "ascendancy": "Ascendancy: Deadeye",
+    "buildName": "Iceshot Deadeye",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 9/10",
+    "survability": "Survability: 6/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Fast mapper, Explosions off-screen",
+    "cons": "Cons: Squishy, Expensive",
+    "investment": "Investment: 22 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians, Shapers, Elder",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=Qh1Elsz-_Ic",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Voidfletcher",
+        "nameUnique": "Voidfletcher"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Hyrri%27s_Ire",
+        "nameUnique": "Hyrri's Ire"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Mark_of_the_Elder",
+        "nameUnique": "Mark of the Elder"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Watcher's_Eye",
+        "nameUnique": "Watcher's Eye"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d5fe6848a01fc975134ac7",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/4/48/Ascendancy_skill_tree_Slayer.PNG/1024px-Ascendancy_skill_tree_Slayer.PNG",
+    "ascendancy": "Ascendancy: Slayer",
+    "buildName": "Two-Handed Sword Cyclone",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Spin to win, Stun immunity, Area of Effect, 20% More damage ascendency node, Huge leech, Begginer friendly",
+    "cons": "Cons: Melee build, Physical reflect maps",
+    "investment": "Investment: 15 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians, Shaper, Elder",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=IHqgu_gMBJw",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Starforge",
+        "nameUnique": "Star Forge"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Abyssus",
+        "nameUnique": "Abyssus"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Belly_of_the_Beast",
+        "nameUnique": "Belly of the Beast"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carnage_Heart",
+        "nameUnique": "Carnage Heart"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Devoto%27s_Devotion",
+        "nameUnique": "Devoto's Devotion"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d5ff6648a01fc975134ac9",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/d/d7/Ascendancy_skill_tree_Champion.png/1024px-Ascendancy_skill_tree_Champion.png",
+    "ascendancy": "Ascendancy: Champion",
+    "buildName": "Facebreaker Cyclone Unarmed",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: 6/10",
+    "clearSpeed": "Clear Speed: 5/10",
+    "survability": "Survability: 5/10",
+    "leagueMechanic": "League Mechanic: 5/10",
+    "pro": "Pro: Chad playstyle",
+    "cons": "Cons: Melee build, Physical reflect maps, Area of effect, Squishy, Expensive",
+    "investment": "Investment: 3 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=hWG2xJRmsg4",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Rigwald%27s_Curse",
+        "nameUnique": "Rigwald's Curse"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Facebreaker",
+        "nameUnique": "Facebreaker"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Abyssus",
+        "nameUnique": "Abyssus"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d6005a48a01fc975134acd",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/3/32/Ascendancy_skill_tree_Saboteur.PNG",
+    "ascendancy": "Ascendancy: Saboteur",
+    "buildName": "Pyroclast Mine",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: 9/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 9/10",
+    "pro": "Pro: Boss damage, Tanky",
+    "cons": "Cons: Piano playstyle",
+    "investment": "Investment: 15 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=cC_zqDMfilc",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Tremor_Rod",
+        "nameUnique": "Tremor Rod"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Dying_Sun",
+        "nameUnique": "Dying Sun"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Shavronne%27s_Wrappings",
+        "nameUnique": "Shavronne's Wrappings"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Presence_of_Chayula",
+        "nameUnique": "Presence of Chayula"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Circle_of_Anguish_(Synthesised)",
+        "nameUnique": "Circle of Anguish"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d6028148a01fc975134ad2",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/3/3a/Ascendancy_skill_tree_Deadeye.png/1024px-Ascendancy_skill_tree_Deadeye.png",
+    "ascendancy": "Ascandency: Deadeye",
+    "buildName": "Elemental Hit",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: N/A",
+    "clearSpeed": "Clear Speed: N/A",
+    "survability": "Survability: N/A",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: N/A",
+    "cons": "Cons: N/A",
+    "investment": "Investment: 1 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: N/A",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=psqtxBzkkaI",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Kaom%27s_Heart",
+        "nameUnique": "Kaom's Heart"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Taming",
+        "nameUnique": "The Taming"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d6038548a01fc975134ad6",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/d/d7/Ascendancy_skill_tree_Champion.png/1024px-Ascendancy_skill_tree_Champion.png",
+    "ascendancy": "Ascandency: Champion",
+    "buildName": "Blade Flurry",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: N/A",
+    "clearSpeed": "Clear Speed: N/A",
+    "survability": "Survability: N/A",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: N/A",
+    "cons": "Cons: N/A",
+    "investment": "Investment: 20 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: N/A",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=3xxX9rB57FA",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Paradoxica",
+        "nameUnique": "Paradoxica"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Farrul%27s_Fur",
+        "nameUnique": "Farrul's Fur"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Saviour",
+        "nameUnique": "The Saviour"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d6041d48a01fc975134adb",
+    "leagueId": "64d5f1c3893a45a374d57e2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/7/78/Ascendancy_skill_tree_Assassin.png/1024px-Ascendancy_skill_tree_Assassin.png",
+    "ascendancy": "Ascendancy: Assassin",
+    "buildName": "CoC Ice Nova Cyclone",
+    "patchName": "Patch: 3.9 Metamorph",
+    "bossDamage": "Boss Damage: N/A",
+    "clearSpeed": "Clear Speed: N/A",
+    "survability": "Survability: N/A",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: N/A",
+    "cons": "Cons: N/A",
+    "investment": "Investment: 4 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: N/A",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=gZ91rQ3riL0",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Cospri%27s_Malice",
+        "nameUnique": "Cospri's Malice"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Pandemonius",
+        "nameUnique": "The Pandemonius"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carcass_Jack",
+        "nameUnique": "Carcass Jack"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Lycosidae",
+        "nameUnique": "Lycosidae"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d607d048a01fc975134ae6",
+    "leagueId": "64d6070648a01fc975134ae1",
+    "cardImage": "https://www.poewiki.net/images/thumb/d/d7/Ascendancy_skill_tree_Champion.png/1024px-Ascendancy_skill_tree_Champion.png",
+    "ascendancy": "Ascendancy: Champion",
+    "buildName": "Cyclone Impale",
+    "patchName": "Patch: 3.10 Delirium",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Spin to win, Stun immunity, Begginer friendly",
+    "cons": "Cons: Melee build, Physical reflect maps",
+    "investment": "Investment: 15 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians, Shaper, Elder",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=13mTRa4Y5RA",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Abyssus",
+        "nameUnique": "Abyssus"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Paradoxica",
+        "nameUnique": "Paradoxica"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Devoto%27s_Devotion",
+        "nameUnique": "Devoto's Devotion"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Ryslatha%27s_Coil",
+        "nameUnique": "Ryslatha's Coil"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d61ca385372458c2bbfa4e",
+    "leagueId": "64d6131685372458c2bbfa12",
+    "cardImage": "https://www.poewiki.net/images/9/98/Ascendancy_skill_tree_Trickster_3.19.png",
+    "ascendancy": "Ascendancy: Trickster",
+    "buildName": "Toxic Rain",
+    "patchName": "Patch: 3.11 Harvest",
+    "bossDamage": "Boss Damage: 7/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 8.5/10",
+    "pro": "Pro: League starter, Begginer friendly, Tanky",
+    "cons": "Cons: DOT playstyle",
+    "investment": "Investment: 8 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=quNgSWlC5GU",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carcass_Jack",
+        "nameUnique": "Carcass Jack"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Atziri's_Step",
+        "nameUnique": "Atziri's Step"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Silverbough",
+        "nameUnique": "Silverbough"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d61e6285372458c2bbfa5a",
+    "leagueId": "64d6131685372458c2bbfa12",
+    "cardImage": "https://www.poewiki.net/images/thumb/d/d7/Ascendancy_skill_tree_Champion.png/1024px-Ascendancy_skill_tree_Champion.png",
+    "ascendancy": "Ascendancy: Champion",
+    "buildName": "Cyclone Impale One-Handed Swords",
+    "patchName": "Patch: 3.11 Harvest",
+    "bossDamage": "Boss Damage: 10/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 8/10",
+    "leagueMechanic": "League Mechanic: 9/10",
+    "pro": "Pro: Spin to win, Stun immunity, Begginer friendly",
+    "cons": "Cons: Melee build, Physical reflect maps",
+    "investment": "Investment: 50 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=MMtI00CZapI",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Saviour",
+        "nameUnique": "The Saviour"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Abyssus",
+        "nameUnique": "Abyssus"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Paradoxica",
+        "nameUnique": "Paradoxica"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Devoto%27s_Devotion",
+        "nameUnique": "Devoto's Devotion"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Ryslatha%27s_Coil",
+        "nameUnique": "Ryslatha's Coil"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d61f0456421b0ea77f9431",
+    "leagueId": "64ce43c360fd2a98015affcc",
+    "cardImage": "https://www.poewiki.net/images/thumb/4/48/Ascendancy_skill_tree_Slayer.PNG/1024px-Ascendancy_skill_tree_Slayer.PNG",
+    "ascendancy": "Ascendancy: Slayer",
+    "buildName": "Two-Handed Sword Cyclone",
+    "patchName": "Patch: 3.7 Legion",
+    "bossDamage": "Boss Damage: 7/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Spin to win, Stun immunity, Area of Effect, 20% More damage ascendency node, Huge leech, Begginer friendly",
+    "cons": "Cons: Melee build, Physical reflect maps",
+    "investment": "Investment: 4 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians, Shaper, Elder",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=g01ibiX5Q1k&ab_channel=Jonlaw98",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Starforge",
+        "nameUnique": "Star Forge"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Abyssus",
+        "nameUnique": "Abyssus"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Belly_of_the_Beast",
+        "nameUnique": "Belly of the Beast"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carnage_Heart",
+        "nameUnique": "Carnage Heart"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Devoto%27s_Devotion",
+        "nameUnique": "Devoto's Devotion"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d61f7e56421b0ea77f9436",
+    "leagueId": "64d613c285372458c2bbfa17",
+    "cardImage": "https://www.poewiki.net/images/thumb/4/48/Ascendancy_skill_tree_Slayer.PNG/1024px-Ascendancy_skill_tree_Slayer.PNG",
+    "ascendancy": "Ascendancy: Slayer",
+    "buildName": "Two-Handed Sword Cyclone",
+    "patchName": "Patch: 3.13 Ritual",
+    "bossDamage": "Boss Damage: 9/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 9/10",
+    "pro": "Pro: Spin to win, Stun immunity, Area of Effect, 20% More damage ascendency node, Huge leech, Begginer friendly",
+    "cons": "Cons: Melee build, Physical reflect maps",
+    "investment": "Investment: 45 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=ivYiKxYHyjg",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Starforge",
+        "nameUnique": "Star Forge"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Abyssus",
+        "nameUnique": "Abyssus"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Ryslatha%27s_Coil",
+        "nameUnique": "Ryslatha's Coil"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carnage_Heart",
+        "nameUnique": "Carnage Heart"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Devoto%27s_Devotion",
+        "nameUnique": "Devoto's Devotion"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d6204c56421b0ea77f943c",
+    "leagueId": "64d613c285372458c2bbfa17",
+    "cardImage": "https://www.poewiki.net/images/thumb/7/78/Ascendancy_skill_tree_Assassin.png/1024px-Ascendancy_skill_tree_Assassin.png",
+    "ascendancy": "Ascendancy: Assassin",
+    "buildName": "Self-Poison Sextant",
+    "patchName": "Patch: 3.13 Ritual",
+    "bossDamage": "Boss Damage: 2/10",
+    "clearSpeed": "Clear Speed: 10/10",
+    "survability": "Survability: 2/10",
+    "leagueMechanic": "League Mechanic: 1/10",
+    "pro": "Pro: Self-Poison strategy, Fun",
+    "cons": "Cons: Everything",
+    "investment": "Investment: 100 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Nothing",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=tK1jsR_dGlc&ab_channel=DemonOfMirkwood",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Headhunter?so=search",
+        "nameUnique": "Headhunter"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Golden_Rule",
+        "nameUnique": "The Golden Rule"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Maw_of_Conquest",
+        "nameUnique": "Maw of Conquest"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d73f3f79cad0b34d17bce9",
+    "leagueId": "64d613c285372458c2bbfa17",
+    "cardImage": "https://www.poewiki.net/images/thumb/1/1c/Ascendancy_skill_tree_Gladiator.PNG/1024px-Ascendancy_skill_tree_Gladiator.PNG",
+    "ascendancy": "Ascendancy: Gladiator",
+    "buildName": "Bleed Bow",
+    "patchName": "Patch: 3.13 Ritual",
+    "bossDamage": "Boss Damage: 6/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Bow style, Explosions, Begginer friendly",
+    "cons": "Cons: Lacking single target, DOT playstyle",
+    "investment": "Investment: 5 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Nothing",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=d-x_kL90czU",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Assailum",
+        "nameUnique": "Assailum"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d73f7179cad0b34d17bced",
+    "leagueId": "64d613eb85372458c2bbfa19",
+    "cardImage": "https://www.poewiki.net/images/thumb/6/63/Ascendancy_skill_tree_Raider.png/1024px-Ascendancy_skill_tree_Raider.png",
+    "ascendancy": "Ascendancy: Raider",
+    "buildName": "Toxic Rain",
+    "patchName": "Patch: 3.14 Ultimatum",
+    "bossDamage": "Boss Damage: 6/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Bow playstyle, Begginer friendly",
+    "cons": "Cons: Lacking single target, DOT playstyle",
+    "investment": "Investment: 5 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=yUXO_ypsSew",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Quill_Rain",
+        "nameUnique": "Quill Rain"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carcass_Jack",
+        "nameUnique": "Carcass Jack"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7402879cad0b34d17bcef",
+    "leagueId": "64d613eb85372458c2bbfa19",
+    "cardImage": "https://www.poewiki.net/images/thumb/b/b9/Ascendancy_skill_tree_Occultist.png/1024px-Ascendancy_skill_tree_Occultist.png",
+    "ascendancy": "Ascendancy: Occultist",
+    "buildName": "CoC Ice Nova Cyclone LI",
+    "patchName": "Patch: 3.14 Ultimatum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 8/10",
+    "leagueMechanic": "League Mechanic: 9/10",
+    "pro": "Pro: Freeze, Explosions, Spin to win",
+    "cons": "Cons: Elemental reflect maps, Expensive",
+    "investment": "Investment: 20 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=fwYVo93YqBc",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Cospri%27s_Malice",
+        "nameUnique": "Cospri's Malice"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Shavronne%27s_Wrappings",
+        "nameUnique": "Shavronne's Wrappings"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Presence_of_Chayula",
+        "nameUnique": "Presence of Chayula"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Prism_Guardian",
+        "nameUnique": "Prism Guardian"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7420779cad0b34d17bcf1",
+    "leagueId": "64d613eb85372458c2bbfa19",
+    "cardImage": "https://www.poewiki.net/images/thumb/c/c2/Ascendancy_skill_tree_Elementalist.png/1024px-Ascendancy_skill_tree_Elementalist.png",
+    "ascendancy": "Ascendancy: Elementalist",
+    "buildName": "Burning Arrow",
+    "patchName": "Patch: 3.14 Ultimatum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 9/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Bow Playstyle, Explosions off-screen, Fast",
+    "cons": "Cons: Elemental reflect maps, Expensive",
+    "investment": "Investment: 20 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=dPWzkQAL6Ng",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Berek's_Respite?so=search",
+        "nameUnique": "Berek's Respite"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Xoph%27s_Nurture",
+        "nameUnique": "Xoph's Nurture"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Primordial_Chain",
+        "nameUnique": "The Primordial Chain"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Primordial_Eminence?so=search",
+        "nameUnique": "Primordial Eminence"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Mantra_of_Flames?so=search",
+        "nameUnique": "Mantra of Flames"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Anima_Stone?so=search",
+        "nameUnique": "The Anima Stone"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d742ae79cad0b34d17bcf3",
+    "leagueId": "64d613eb85372458c2bbfa19",
+    "cardImage": "https://www.poewiki.net/images/thumb/4/42/Ascendancy_skill_tree_Necromancer.PNG/1024px-Ascendancy_skill_tree_Necromancer.PNG",
+    "ascendancy": "Ascendancy: Necromancer",
+    "buildName": "Slave Driver Spectre + Zombie",
+    "patchName": "Patch: 3.14 Ultimatum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Walking simulator, Begginer friendly",
+    "cons": "Cons: Reflect maps",
+    "investment": "Investment: 25 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=XzJW49MG_jE&t=0s&ab_channel=BalorMage",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Victario's_Charity",
+        "nameUnique": "Victario's Charity"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Jinxed_Juju?so=search",
+        "nameUnique": "The Jinxed Juju"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Triad_Grip?so=search",
+        "nameUnique": "Triad Grip Cold Conversion"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Unending_Hunger",
+        "nameUnique": "Unending Hunger"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7439279cad0b34d17bcf6",
+    "leagueId": "64d613eb85372458c2bbfa19",
+    "cardImage": "https://www.poewiki.net/images/thumb/b/b9/Ascendancy_skill_tree_Occultist.png/1024px-Ascendancy_skill_tree_Occultist.png",
+    "ascendancy": "Ascendancy: Occultist",
+    "buildName": "Winter Orb",
+    "patchName": "Patch: 3.14 Ultimatum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 9/10",
+    "survability": "Survability: 6/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Walking simulator, Explosions",
+    "cons": "Cons: Elemental reflect maps, Expensive",
+    "investment": "Investment: 20 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=LhZrzmfGws4&ab_channel=BalorMage",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Void_Battery?so=search",
+        "nameUnique": "Void Battery"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Badge_of_the_Brotherhood?so=search",
+        "nameUnique": "Badge of the Brotherhood"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7457c79cad0b34d17bcf9",
+    "leagueId": "64d613eb85372458c2bbfa19",
+    "cardImage": "https://www.poewiki.net/images/thumb/4/48/Ascendancy_skill_tree_Slayer.PNG/1024px-Ascendancy_skill_tree_Slayer.PNG",
+    "ascendancy": "Ascendancy: Slayer",
+    "buildName": "Two-Handed Sword Cyclone",
+    "patchName": "Patch: 3.14 Ultimatum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 7.5/10",
+    "pro": "Pro: Spin to win, Stun immunity, Area of Effect, 20% More damage ascendency node, Huge leech, Begginer friendly",
+    "cons": "Cons: Melee build, Physical reflect maps",
+    "investment": "Investment: 10 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=pCkubIA6Nso",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Starforge",
+        "nameUnique": "Star Forge"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Abyssus",
+        "nameUnique": "Abyssus"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Ryslatha%27s_Coil",
+        "nameUnique": "Ryslatha's Coil"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Carnage_Heart",
+        "nameUnique": "Carnage Heart"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Devoto%27s_Devotion",
+        "nameUnique": "Devoto's Devotion"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7486979cad0b34d17bcff",
+    "leagueId": "64d6147f85372458c2bbfa20",
+    "cardImage": "https://www.poewiki.net/images/thumb/6/63/Ascendancy_skill_tree_Raider.png/1024px-Ascendancy_skill_tree_Raider.png",
+    "ascendancy": "Ascendancy: Raider",
+    "buildName": "Spectral Shield Throw Cold Conversion",
+    "patchName": "Patch: 3.15 Expedition",
+    "bossDamage": "Boss Damage: 7/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Fast, Begginer friendly",
+    "cons": "Cons: Melee build,Physical reflect maps",
+    "investment": "Investment: 10 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians, Shaper",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=E0b8vjstfRA&ab_channel=Crouching_Tuna",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Seething_Fury",
+        "nameUnique": "Seething Fury"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Hrimsorrow",
+        "nameUnique": "Hrimsorrow"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Darkray_Vectors",
+        "nameUnique": "Darkray Vectors"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Taming",
+        "nameUnique": "The Taming"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d74a3179cad0b34d17bd04",
+    "leagueId": "64d6153e85372458c2bbfa23",
+    "cardImage": "https://www.poewiki.net/images/thumb/d/d8/Ascendancy_skill_tree_Inquisitor.PNG/1024px-Ascendancy_skill_tree_Inquisitor.PNG",
+    "ascendancy": "Ascendancy: Inquisitor",
+    "buildName": "Righteous Fire",
+    "patchName": "Patch: 3.17 Archnemesis",
+    "bossDamage": "Boss Damage: 7/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Walking simulator,League starter, Tanky",
+    "cons": "Cons: Lacking single target damage",
+    "investment": "Investment: 10 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Guardians, Shaper",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=GKdRYCt7gJk",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Legacy_of_Fury",
+        "nameUnique": "Legacy of Fury"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d74b5779cad0b34d17bd08",
+    "leagueId": "64d6158c85372458c2bbfa26",
+    "cardImage": "https://www.poewiki.net/images/thumb/4/42/Ascendancy_skill_tree_Necromancer.PNG/1024px-Ascendancy_skill_tree_Necromancer.PNG",
+    "ascendancy": "Ascendancy: Necromancer",
+    "buildName": "Skeleton Army",
+    "patchName": "Patch: 3.18 Sentinel",
+    "bossDamage": "Boss Damage: 9/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 8/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Walking simulator, Melting, Tank",
+    "cons": "Cons: Spam skeleton gem",
+    "investment": "Investment: 25 Exalted Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=NHY90I-zqm0",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Aegis_Aurora",
+        "nameUnique": "Aegis Aurora"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Fleshcrafter",
+        "nameUnique": "Fleshcrafter"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Dead_Reckoning",
+        "nameUnique": "Dead Reckoning"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d74bb179cad0b34d17bd0b",
+    "leagueId": "64d6158c85372458c2bbfa26",
+    "cardImage": "https://www.poewiki.net/images/thumb/6/63/Ascendancy_skill_tree_Raider.png/1024px-Ascendancy_skill_tree_Raider.png",
+    "ascendancy": "Ascendancy: Raider",
+    "buildName": "Spectral Helix",
+    "patchName": "Patch: 3.18 Sentinel",
+    "bossDamage": "Boss Damage: N/A",
+    "clearSpeed": "Clear Speed: N/A",
+    "survability": "Survability: N/A",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: N/A",
+    "cons": "Cons: N/A",
+    "investment": "Investment: N/A",
+    "exaltedPng": "https://www.poewiki.net/images/2/26/Exalted_Orb_inventory_icon.png",
+    "content": "Content: N/A",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=5fCkou3f-2c",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/White_Wind",
+        "nameUnique": "White Wind"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d74ca079cad0b34d17bd11",
+    "leagueId": "64d6166085372458c2bbfa2b",
+    "cardImage": "https://www.poewiki.net/images/thumb/d/d8/Ascendancy_skill_tree_Inquisitor.PNG/1024px-Ascendancy_skill_tree_Inquisitor.PNG",
+    "ascendancy": "Ascendancy: Inquisitor",
+    "buildName": "Spark",
+    "patchName": "Patch: 3.19 Lake of Kalandra",
+    "bossDamage": "Boss Damage: N/A",
+    "clearSpeed": "Clear Speed: N/A",
+    "survability": "Survability: N/A",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: N/A",
+    "cons": "Cons: N/A",
+    "investment": "Investment: N/A",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: N/A",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=FFn29mT6InU&ab_channel=Goratha",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Algor_Mortis",
+        "nameUnique": "Algor Mortis"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d74da879cad0b34d17bd14",
+    "leagueId": "64d616ef85372458c2bbfa31",
+    "cardImage": "https://www.poewiki.net/images/thumb/6/63/Ascendancy_skill_tree_Raider.png/1024px-Ascendancy_skill_tree_Raider.png",
+    "ascendancy": "Ascendancy: Raider",
+    "buildName": "Venom Gyre",
+    "patchName": "Patch: 3.20 The Forbidden Sanctum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 6/10",
+    "pro": "Pro: Fast mapper, Cheap, League starter",
+    "cons": "Cons: Squishy, Elemental reflect maps",
+    "investment": "Investment: 12 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=0hju-9gFTHM&t",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Kaom%27s_Spirit",
+        "nameUnique": "Kaom's Spirit"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Voll%27s_Vision",
+        "nameUnique": "Voll's Vision"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Taming",
+        "nameUnique": "The Taming"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7502079cad0b34d17bd1a",
+    "leagueId": "64d616ef85372458c2bbfa31",
+    "cardImage": "https://www.poewiki.net/images/thumb/b/b9/Ascendancy_skill_tree_Occultist.png/1024px-Ascendancy_skill_tree_Occultist.png",
+    "ascendancy": "Ascendancy: Occultist",
+    "buildName": "Death Aura + Caustic Arrow",
+    "patchName": "Patch: 3.20 The Forbidden Sanctum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 8/10",
+    "leagueMechanic": "League Mechanic: 6/10",
+    "pro": "Pro: Fast mapper, Walking simulator, Explosions",
+    "cons": "Cons: Expensive, DOT damage",
+    "investment": "Investment: 33 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=CqRvLXvRVjo",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Death%27s_Oath",
+        "nameUnique": "Death's Oath"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Impresence_(Chaos,_full_power)",
+        "nameUnique": "Impresence Onyx Amulet"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7505579cad0b34d17bd1e",
+    "leagueId": "64d7505579cad0b34d17bd1e",
+    "cardImage": "https://www.poewiki.net/images/thumb/c/c2/Ascendancy_skill_tree_Elementalist.png/1024px-Ascendancy_skill_tree_Elementalist.png",
+    "ascendancy": "Ascendancy: Elementalist",
+    "buildName": "Ethereal Knives",
+    "patchName": "Patch: 3.20 The Forbidden Sanctum",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 10/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: 6.5/10",
+    "pro": "Pro: Fast mapper, Explosions off-screen",
+    "cons": "Cons: Can't play without uniques, DOT damage",
+    "investment": "Investment: 28 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=04yb0lQDXPk",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Gloomfang",
+        "nameUnique": "Gloomfang"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Polaric_Devastation",
+        "nameUnique": "Polaric Devastation"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Skin_of_the_Lords",
+        "nameUnique": "Skin of the Lords"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Obliteration",
+        "nameUnique": "Obliteration"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d7514279cad0b34d17bd21",
+    "leagueId": "64d616ef85372458c2bbfa31",
+    "cardImage": "https://www.poewiki.net/images/4/41/Ascendancy_skill_tree_Juggernaut_3.19.png",
+    "ascendancy": "Ascendancy: Juggernaut",
+    "buildName": "Righteous Fire + Fire Trap",
+    "patchName": "Patch: 3.20 The Forbidden Sanctum",
+    "bossDamage": "Boss Damage: 6.5/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 9/10",
+    "leagueMechanic": "League Mechanic: 6/10",
+    "pro": "Pro: Walking simulator, Tanky, 90%res",
+    "cons": "Cons: Expensive, Single target damage, Slow",
+    "investment": "Investment: 40 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=1aXeQ_k6SuQ",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Immortal_Flesh",
+        "nameUnique": "Immortal Flesh"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Oriath%27s_End",
+        "nameUnique": "Oriath's End"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Brass_Dome",
+        "nameUnique": "The Brass Dome"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Saffell%27s_Frame",
+        "nameUnique": "Saffell's Frame"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Legacy_of_Fury",
+        "nameUnique": "Legacy of Fury"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d751c679cad0b34d17bd24",
+    "leagueId": "64d616ef85372458c2bbfa31",
+    "cardImage": "https://www.poewiki.net/images/thumb/7/78/Ascendancy_skill_tree_Assassin.png/1024px-Ascendancy_skill_tree_Assassin.png",
+    "ascendancy": "Ascendancy: Assassin",
+    "buildName": "CoC Ice Nova Ll",
+    "patchName": "Patch: 3.20 The Forbidden Sanctum",
+    "bossDamage": "Boss Damage: 7.5/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 5/10",
+    "leagueMechanic": "League Mechanic: 5/10",
+    "pro": "Pro: Spin to win, CoC Chad, Freeze",
+    "cons": "Cons: Expensive, Glass-Cannon, Elemental reflect maps",
+    "investment": "Investment: 25 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Guardians",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=Y_rsXAJkfAQ",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Presence_of_Chayula",
+        "nameUnique": "Presence of Chayula"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Cospri%27s_Malice",
+        "nameUnique": "Cospri's Malice"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Prism_Guardian",
+        "nameUnique": "Prism Guardian"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Shavronne%27s_Wrappings",
+        "nameUnique": "Shavronne's Wrappings"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d756d679cad0b34d17bd2a",
+    "leagueId": "64d619d985372458c2bbfa3f",
+    "cardImage": "https://www.poewiki.net/images/thumb/3/3a/Ascendancy_skill_tree_Deadeye.png/1024px-Ascendancy_skill_tree_Deadeye.png",
+    "ascendancy": "Ascendancy: Deadeye",
+    "buildName": "Lightning Arrow",
+    "patchName": "Patch: 3.21 Crucible",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 8.5/10",
+    "survability": "Survability: 7.5/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Fast, Chain, Bow playstyle",
+    "cons": "Cons: Elemental reflect maps",
+    "investment": "Investment: 15 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=zXntTZAnjN8&t",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Hyrri%27s_Ire",
+        "nameUnique": "Hyrri's Ire"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Voll%27s_Vision",
+        "nameUnique": "Voll's Vision"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Kaom%27s_Spirit",
+        "nameUnique": "Kaom's Spirit"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Yoke_of_Suffering",
+        "nameUnique": "Yoke of Suffering"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d757d179cad0b34d17bd2d",
+    "leagueId": "64d619d985372458c2bbfa3f",
+    "cardImage": "https://www.poewiki.net/images/thumb/b/b9/Ascendancy_skill_tree_Occultist.png/1024px-Ascendancy_skill_tree_Occultist.png",
+    "ascendancy": "Ascendancy: Occultist",
+    "buildName": "CoC Forbidden Rite Cyclone",
+    "patchName": "Patch: 3.21 Crucible",
+    "bossDamage": "Boss Damage: 7/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 8.5/10",
+    "leagueMechanic": "League Mechanic: 7/10",
+    "pro": "Pro: Tanky",
+    "cons": "Cons: DOT playstyle, Expensive",
+    "investment": "Investment: 40 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Everything",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=ZZF_8dZV-I0",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Crown_of_the_Inward_Eye",
+        "nameUnique": "Crown of the Inward Eye"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Skin_of_the_Lords",
+        "nameUnique": "Skin of the Lords"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Aegis_Aurora",
+        "nameUnique": "Aegis Aurora"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64d75c4e79cad0b34d17bd2f",
+    "leagueId": "64d619d985372458c2bbfa3f",
+    "cardImage": "https://www.poewiki.net/images/a/a3/Ascendancy_skill_tree_Pathfinder.PNG",
+    "ascendancy": "Ascendancy: Pathfinder",
+    "buildName": "Tornado Shot Chaos Conversion",
+    "patchName": "Patch: 3.21 Crucible",
+    "bossDamage": "Boss Damage: 4/10",
+    "clearSpeed": "Clear Speed: 7/10",
+    "survability": "Survability: 6/10",
+    "leagueMechanic": "League Mechanic: 5/10",
+    "pro": "Pro: Bow playstyle",
+    "cons": "Cons: DOT playstyle, Expensive",
+    "investment": "Investment: 30 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Mapping",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=EDE903zxXyQ&t",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Expedition%27s_End",
+        "nameUnique": "Expedition's End"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Asenath%27s_Gentle_Touch",
+        "nameUnique": "Asenath's Gentle Touch"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Zerphi%27s_Heart",
+        "nameUnique": "Zerphi's Heart"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Circle_of_Nostalgia_(Synthesised)",
+        "nameUnique": "Circle of Nostalgia"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Headhunter",
+        "nameUnique": "Headhunter"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6569d1cd9a5fe12660378701",
+    "leagueId": "6569cbb6e4c1e51e8b379372",
+    "cardImage": "https://www.poewiki.net/images/thumb/d/d7/Ascendancy_skill_tree_Champion.png/1024px-Ascendancy_skill_tree_Champion.png",
+    "ascendancy": "Ascendancy: Champion",
+    "buildName": "Kinetic Blast Corrupting Fever",
+    "patchName": "Patch: 3.22 Ancestor",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 9/10",
+    "survability": "Survability: 9.5/10",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: Tanky, Good Clear",
+    "cons": "Cons: DOT playstyle, Single Target Damage",
+    "investment": "Investment: 45 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: All",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=1p9frkQcFgo&ab_channel=NoNameHQ",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/The_Fourth_Vow",
+        "nameUnique": "The Fourth Vow"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Haemophilia",
+        "nameUnique": "Haemophilia"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Glorious_Vanity",
+        "nameUnique": "Glorious Vanity"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6569d4a79a5fe12660378737",
+    "leagueId": "6569cbb6e4c1e51e8b379372",
+    "cardImage": "https://www.poewiki.net/images/thumb/c/c2/Ascendancy_skill_tree_Elementalist.png/1024px-Ascendancy_skill_tree_Elementalist.png",
+    "ascendancy": "Ascendancy: Elementalist",
+    "buildName": "Ethereal Knives",
+    "patchName": "Patch: 3.22 Ancestor",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 9/10",
+    "survability": "Survability: 7/10",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: Explosions,  Off-Screen Clear",
+    "cons": "Cons: DOT playstyle, Expensive, Conversion-Build",
+    "investment": "Investment: 40 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: All",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=8GuWltCZ7IY",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Skin_of_the_Lords",
+        "nameUnique": "Skin of the Lords"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Gloomfang",
+        "nameUnique": "Gloomfang"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Taste_of_Hate",
+        "nameUnique": "Taste of Hate"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Polaric_Devastation",
+        "nameUnique": "Polaric Devastation"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "6569d7359a5fe1266037876c",
+    "leagueId": "6569cbb6e4c1e51e8b379372",
+    "cardImage": "https://www.poewiki.net/images/thumb/c/c2/Ascendancy_skill_tree_Elementalist.png/1024px-Ascendancy_skill_tree_Elementalist.png",
+    "ascendancy": "Ascendancy: Elementalist",
+    "buildName": "Vortex Fire",
+    "patchName": "Patch: 3.22 Ancestor",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 7.5/10",
+    "survability": "Survability: 6.5/10",
+    "leagueMechanic": "League Mechanic: N/A",
+    "pro": "Pro: Walking Simulator,  Off-Screen Clear",
+    "cons": "Cons: DOT playstyle, Expensive, Conversion-Build",
+    "investment": "Investment: 35 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: Mapping",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=rQoRRBdXRJA&ab_channel=TripolarBear",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Skin_of_the_Lords",
+        "nameUnique": "Skin of the Lords"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Replica_Dragonfang%27s_Flight",
+        "nameUnique": "Replica Dragonfang's Flight"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Eye_of_Malice",
+        "nameUnique": "Eye of Malice"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Replica_Emberwake",
+        "nameUnique": "Replica Emberwake"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Aegis_Aurora",
+        "nameUnique": "Aegis Aurora"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "65fee785b2dd32cb49892ffc",
+    "leagueId": "6569cddf9a5fe126603786e4",
+    "cardImage": "https://www.poewiki.net/images/a/ae/Ascendancy_skill_tree_Guardian.png",
+    "ascendancy": "Ascendancy: Guardian",
+    "buildName": "Summon Raging Spirits",
+    "patchName": "Patch: 3.23 Affliction",
+    "bossDamage": "Boss Damage: 8.5/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 8.5/10",
+    "leagueMechanic": "League Mechanic: 8/10",
+    "pro": "Pro: Minions, Easy Scaling, Tank",
+    "cons": "Cons: Minions, Respawn Minions",
+    "investment": "Investment: 25 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: All",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=fiYpBOXPAgk&t=0s",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Lightning_Coil",
+        "nameUnique": "Lightning Coil"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Profane_Proxy",
+        "nameUnique": "Profane Proxy"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Darkness_Enthroned",
+        "nameUnique": "Darkness Enthroned"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Taste_of_Hate",
+        "nameUnique": "Taste of Hate"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "65fee9bcb2dd32cb49893022",
+    "leagueId": "6569cddf9a5fe126603786e4",
+    "cardImage": "https://www.poewiki.net/images/thumb/a/a3/Ascendancy_skill_tree_Pathfinder.PNG/1024px-Ascendancy_skill_tree_Pathfinder.PNG",
+    "ascendancy": "Ascendancy: Pathfinder",
+    "buildName": "Scourge Arrow of Menace",
+    "patchName": "Patch: 3.23 Affliction",
+    "bossDamage": "Boss Damage: 9/10",
+    "clearSpeed": "Clear Speed: 9/10",
+    "survability": "Survability: 9.5/10",
+    "leagueMechanic": "League Mechanic: 9/10",
+    "pro": "Pro: DoT Playstyle, Tank",
+    "cons": "Cons: Expansive, DoT Playstyle",
+    "investment": "Investment: 100 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: All",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=PbtdYDJzosg&t=0s",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Lightning_Coil",
+        "nameUnique": "Lightning Coil"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Defiance_of_Destiny",
+        "nameUnique": "Defiance of Destiny"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Dying_Sun",
+        "nameUnique": "Dying Sun"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Taste_of_Hate",
+        "nameUnique": "Taste of Hate"
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "65feec43b2dd32cb49893029",
+    "leagueId": "6569cddf9a5fe126603786e4",
+    "cardImage": "https://www.poewiki.net/images/4/41/Ascendancy_skill_tree_Juggernaut_3.19.png",
+    "ascendancy": "Ascendancy: Juggernaut",
+    "buildName": "Tornado Shot Accuracy Stacker",
+    "patchName": "Patch: 3.23 Affliction",
+    "bossDamage": "Boss Damage: 8/10",
+    "clearSpeed": "Clear Speed: 8/10",
+    "survability": "Survability: 7.5/10",
+    "leagueMechanic": "League Mechanic: 8.5/10",
+    "pro": "Pro: Fun, Infinite Attack Speed",
+    "cons": "Cons: Expansive, Non-Meta, Very Expensive, Better Alternatives",
+    "investment": "Investment: 70 Divine Orbs",
+    "exaltedPng": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+    "content": "Content: All",
+    "youtubeGameplay": "https://www.youtube.com/watch?v=DSnNrMRNObc&t=0s",
+    "items": [
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Obscurantis",
+        "nameUnique": "Obscurantis"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Widowhail",
+        "nameUnique": "Widowhail"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Shroud_of_the_Lightless_(2_Abyssal_Sockets)",
+        "nameUnique": "Shroud of the Lightless"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Precursor%27s_Emblem_(Frenzy_Charge)",
+        "nameUnique": "Precursor's Emblem"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Oskarm",
+        "nameUnique": "Oskarm"
+      },
+      {
+        "linkUnique": "https://www.poewiki.net/wiki/Dying_Sun",
+        "nameUnique": "Dying Sun"
+      }
+    ],
+    "__v": 0
+  }
+]

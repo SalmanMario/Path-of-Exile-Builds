@@ -99,3 +99,10 @@ export function getCrucible() {
 export function getAncestor() {
   return wrapAxiosCall<Build[]>(axiosInstance.get("/builds/Ancestor"));
 }
+
+/**
+ * Get all Affliction builds
+ */
+export function getAffliction() {
+  return wrapAxiosCall<Build[]>(axiosInstance.get("/builds/Affliction"));
+}

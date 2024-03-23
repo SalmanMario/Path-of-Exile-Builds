@@ -19,6 +19,7 @@ export const routes = {
   crucible: () => "/league/crucible",
   trials: () => "/league/trials",
   ancestor: () => "/league/ancestor",
+  affliction: () => "/league/affliction",
 };
 
 export function route(fn: () => string): string;
